@@ -1,0 +1,7 @@
+﻿  Circle.cpp
+  main.cpp
+C:\Informatica\ooplaboratory6_7-antonel-iwnl\Problem1\main.cpp(14,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  Shape.cpp
+  Square.cpp
+  Generating Code...
+  Problem1.vcxproj -> C:\Informatica\ooplaboratory6_7-antonel-iwnl\x64\Debug\Problem1.exe
