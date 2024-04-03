@@ -1,0 +1,77 @@
+﻿  Image.cpp
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(95,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(109,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(124,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(217,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(226,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(227,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(235,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(274,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(281,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(282,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(300,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(301,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(313,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\Image.cpp(314,21): warning C4018: '<': signed/unsigned mismatch
+  ImageProcessing.cpp
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(49,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(149,22): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(150,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(160,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(161,22): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(162,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(172,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(173,22): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(174,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(184,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(185,22): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(186,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(197,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(198,22): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\ImageProcessing.cpp(199,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Point.cpp
+  Rectangle.cpp
+  Size.cpp
+  drawingModule.cpp
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(10,65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(20,27): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,59): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,69): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,95): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,105): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,133): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,143): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,169): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(30,179): warning C4018: '<=': signed/unsigned mismatch
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(31,27): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(44,23): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(48,25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(52,25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+\\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\BasicImageProcessingApp\drawingModule.cpp(56,25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+  BasicImageProcessingApp.vcxproj -> \\Mac\Home\Documents\OOP Labs\OOP Extra 2\Extra 2\Debug\BasicImageProcessingApp.exe
